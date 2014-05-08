@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## The purpose of these two functions is to create a class that stores and displays the 
+## value of a matrix and also calculate and caches the value of its inverse.
+
 
 ## makeCacheMatrix
 ## This function, makeCacheMatrix creates a special "matrix", which is a list containing a function to:
